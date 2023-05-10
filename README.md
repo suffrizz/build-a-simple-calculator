@@ -1,4 +1,4 @@
-# Build a simple calculator
+# Build a simple calculator 
 
 ### Define the function and the numbers that we will use in this program 
 ```

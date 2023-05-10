@@ -1,6 +1,3 @@
-/* Nama : Nicholas Tambunan
-	Nim : 14S21039  */
-
 #include <stdio.h>
 
 int main (){

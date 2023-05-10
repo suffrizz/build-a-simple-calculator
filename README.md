@@ -1,5 +1,4 @@
 # Build a simple calculator
-## Mid Semester Project
 
 ### Define the function and the numbers that we will use in this program 
 ```
@@ -38,7 +37,17 @@ scanf("%c", &op);
         }
   ```
   
-  ### 
+  ### The operation has been fully executed and already got the result. Please select yes or no, if you want to use the calculator again
+  ```
+   printf("Apakah anda ingin menggunakan kalkulator lagi?\n1. Ya\n2. Tidak\n");
+        scanf("%d", &pil);
+    } while (pil==1);
+    return 0;
+}
+```
+
+  
+  
         
         
         
